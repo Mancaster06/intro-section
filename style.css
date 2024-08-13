@@ -1,0 +1,70 @@
+body{
+    background-color: hsl(0, 0%, 98%);
+    font-family: 'Epilogue';
+    font-weight: 400;
+    font-optical-sizing: auto;
+    font-style: normal;
+    width: 375px;
+    height: auto;
+}
+.header{
+    align-items: flex-start;
+    margin-left: 20px;
+    display: flex;
+    padding-top: 20px;
+}
+h1{
+    font-size: 40px;
+    color: hsl(0, 0%, 8%);
+}
+p{
+    font-size: 18px;
+    color: hsl(0, 0%, 41%);
+    
+}
+
+
+.features{
+    align-items: center;
+    margin-left: 50px;
+    margin-right: 20px;
+    display: flex;
+    
+}
+.Company{
+    align-items: center;
+    margin-left: 30px;
+    margin-right: 30px;
+    display: flex;
+}
+.button{
+    display: flex;
+    gap: 50px;
+    margin-left: 350px;
+}
+
+.text{
+    margin-left: 30px;
+    margin-top: 30px;
+   
+}
+.label-about{
+    margin-left: 50px;
+}
+img{
+    width: 600px;
+    height: auto;
+    margin-left: 200px;
+}
+.center{
+    display: flex;
+}
+#learn{
+    width: 100px;
+    height: 35px;
+    border-radius: 7px;
+    color: hsl(0, 0%, 98%);
+    background-color: hsl(0, 0%, 8%);
+}
+    
+
